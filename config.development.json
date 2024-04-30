@@ -1,13 +1,13 @@
 {
   "url": "http://localhost:10000",
   "server": {
-    "port": 10000,
+    "port": 2369,
     "host": "0.0.0.0"
   },
   "database": {
     "client": "sqlite3",
     "connection": {
-      "filename": "/opt/render/project/src/content/data/ghost-local.db"
+      "filename": "/home/ubuntu/Ghost/content/data/ghost-local.db"
     }
   },
   "mail": {
@@ -21,6 +21,6 @@
   },
   "process": "local",
   "paths": {
-    "contentPath": "/opt/render/project/src/content"
+    "contentPath": "/home/ubuntu/Ghost/content"
   }
 }
