@@ -1,7 +1,7 @@
 {
   "url": "https://ghost-05ew.onrender.com",
   "server": {
-    "port": 2369,
+    "port": 18012,
     "host": "0.0.0.0"
   },
   "database": {
