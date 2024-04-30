@@ -1,0 +1,9 @@
+{"name":"Log","hostname":"PC-TOWER-JD","pid":28390,"level":30,"version":"5.80.0","msg":"Ghost is running in production...","time":"2024-04-30T14:42:20.144Z","v":0}
+{"name":"Log","hostname":"PC-TOWER-JD","pid":28390,"level":30,"version":"5.80.0","msg":"Your site is now available on http://localhost:2368/","time":"2024-04-30T14:42:20.145Z","v":0}
+{"name":"Log","hostname":"PC-TOWER-JD","pid":28390,"level":30,"version":"5.80.0","msg":"Ctrl+C to shut down","time":"2024-04-30T14:42:20.145Z","v":0}
+{"name":"Log","hostname":"PC-TOWER-JD","pid":28390,"level":30,"version":"5.80.0","msg":"Ghost server started in 0.371s","time":"2024-04-30T14:42:20.146Z","v":0}
+{"name":"Log","hostname":"PC-TOWER-JD","pid":28390,"level":50,"version":"5.80.0","err":{"id":500,"domain":"http://localhost:2368","code":"ECONNREFUSED","name":"DatabaseError","statusCode":500,"level":"critical","message":"connect ECONNREFUSED 127.0.0.1:3306","help":"\"Unknown database error\"","stack":"Error: connect ECONNREFUSED 127.0.0.1:3306\n    at /home/jdiego16/ghost-2/versions/5.80.0/node_modules/knex-migrator/lib/database.js:57:19\n    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1605:16)","hideStack":false},"msg":"connect ECONNREFUSED 127.0.0.1:3306","time":"2024-04-30T14:42:20.236Z","v":0}
+{"name":"Log","hostname":"PC-TOWER-JD","pid":28390,"level":40,"version":"5.80.0","msg":"Ghost is shutting down","time":"2024-04-30T14:42:20.236Z","v":0}
+{"name":"Log","hostname":"PC-TOWER-JD","pid":28390,"level":40,"version":"5.80.0","msg":"Ghost has shut down","time":"2024-04-30T14:42:20.237Z","v":0}
+{"name":"Log","hostname":"PC-TOWER-JD","pid":28390,"level":40,"version":"5.80.0","msg":"Your site is now offline","time":"2024-04-30T14:42:20.237Z","v":0}
+{"name":"Log","hostname":"PC-TOWER-JD","pid":28390,"level":40,"version":"5.80.0","msg":"Ghost was running for a few seconds","time":"2024-04-30T14:42:20.238Z","v":0}
