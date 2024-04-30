@@ -1,5 +1,5 @@
 {
-  "url": "http://localhost:2369/",
+  "url": "https://ghost-05ew.onrender.com",
   "server": {
     "port": 2369,
     "host": "0.0.0.0"
